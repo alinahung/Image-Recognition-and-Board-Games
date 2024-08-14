@@ -1,3 +1,8 @@
+
+
+
+https://github.com/user-attachments/assets/2d5b0cd1-665a-4b79-8b27-c9adfa4151ac
+
 ## 負責項目
 
 - **影像辨識訓練**
